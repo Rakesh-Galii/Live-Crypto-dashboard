@@ -3,7 +3,7 @@ Real-Time Bitcoin Analytics Dashboard
 A live-updating cryptocurrency dashboard built to demonstrate real-time data streaming, 
 statistical analysis, and automated data pipelines.
 
-[Live App Link](PASTE_YOUR_STREAMLIT_LINK_HERE)
+[Live App Link] https://live-crypto-dashboard88.streamlit.app/
 
 ## 📊 Key Features
 - Real-Time Data Extraction:* Fetches live BTC/USD prices every 10 seconds via CoinGecko API.
